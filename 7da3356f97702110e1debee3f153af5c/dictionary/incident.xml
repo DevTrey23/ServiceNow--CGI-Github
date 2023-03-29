@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.query_hints=true,email_client=true,hasWorkflow=true,live_feed=true,query_hints=true" audit="true" db_object_id="8bae79c8752401100acb0f6766fcbfb1" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element choice="1" default="Inquiry" label="Impacted System" max_length="40" name="x_978148_dummy_cgi_categories" type="string">
+            <choice>
+                <element inactive_on_update="false" label="GFMS" sequence="1"/>
+                <element inactive_on_update="false" label="RFMS/M" sequence="2"/>
+                <element inactive_on_update="false" label="CCRC" sequence="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Assigned/Requested Date" max_length="40" name="x_978148_dummy_u_glide_date_10" type="glide_date"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Issue Type" max_length="1024" name="x_978148_dummy_u_glide_list_2" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" choice="1" label="Category" mandatory="true" max_length="1024" name="x_978148_dummy_u_glide_list_4" reference="sc_category" type="glide_list">
+            <choice/>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="State" max_length="1024" name="x_978148_dummy_u_glide_list_8" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Priority" max_length="1024" name="x_978148_dummy_u_glide_list_9" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="x_978148_dummy_u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="x_978148_dummy_u_string_7" type="string"/>
+    </element>
+</database>

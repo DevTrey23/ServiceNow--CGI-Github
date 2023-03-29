@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>CGI Federal Admin Da - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 14:11:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>53423a609771a110e1debee3f153af6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI Federal Admin Da - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_tabs_53423a609771a110e1debee3f153af6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 14:11:13</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>pa_tabs_53423a609771a110e1debee3f153af6b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>CGI Federal Admin Da - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 14:11:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>53423a609771a110e1debee3f153af6b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CGI Federal Admin Da - New Tab 2</sys_name><sys_overrides/><sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>pa_tabs_53423a609771a110e1debee3f153af6b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 14:11:13</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-1067184643</payload_hash>
+        <record_name>CGI Federal Admin Da - New Tab 2</record_name>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 14:11:20</sys_created_on>
+        <sys_id>b8527a609771a110e1debee3f153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18709a8f3cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 14:11:20</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>1b423a602871a11033d99a7e48d6706c</update_guid>
+        <update_guid_history>1b423a602871a11033d99a7e48d6706c:-1284705643,1b423a602871a11033d99a7e48d6706c:-1284705643,1b423a602871a11033d99a7e48d6706c:-1284705643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CGI Federal Admin Da - New Tab 2">38527a609771a110e1debee3f153af07</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 14:11:20</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>0a138db86427422e8166e2d7c4c2c279</sys_id>
+        <sys_metadata>53423a609771a110e1debee3f153af6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI Federal Admin Da - New Tab 2</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>pa_tabs_53423a609771a110e1debee3f153af6b</sys_update_name>
+        <sys_update_version display_value="pa_tabs_53423a609771a110e1debee3f153af6b">b8527a609771a110e1debee3f153af01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 14:11:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

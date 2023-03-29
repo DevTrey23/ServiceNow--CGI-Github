@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ticket_entered_date" label="Ticket Entered Date" language="en" table="x_978148_dummy_cgi_ticket_table_beta">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ticket_entered_date</element>
+            <help/>
+            <hint/>
+            <label>Ticket Entered Date</label>
+            <language>en</language>
+            <name>x_978148_dummy_cgi_ticket_table_beta</name>
+            <plural>Ticket Entered Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-22 14:52:37</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ticket Entered Date</sys_name>
+            <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+            <sys_update_name>sys_documentation_x_978148_dummy_cgi_ticket_table_beta_ticket_entered_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-22 14:52:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

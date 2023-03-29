@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="User self registration">58c7807382cd2510fb68b46f6cd15bb0</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-22 21:19:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>90c780732ecd251033eac12f36bf15b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_page_property_90c780732ecd251033eac12f36bf15b3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-22 21:19:18</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_978148_dummy.58c7807382cd2510fb68b46f6cd15bb0.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=90c780732ecd251033eac12f36bf15b3"/>
+</record_update>

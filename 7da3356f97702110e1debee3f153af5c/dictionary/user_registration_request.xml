@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element create_roles="public" db_object_id="7ec43ad397c9e110e1debee3f153af3a" label="User Registration Request" max_length="40" name="user_registration_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="x_978148_dummy_password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="x_978148_dummy_phone_number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">06dda21f2889e11072fad88f0d0041c8</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">86dda21fa889e11034b42102f3e58fc7</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:07:58</sys_created_on>
+        <sys_id>cedda21f0c89e110cd5981f3b63df4c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_cedda21f0c89e110cd5981f3b63df4c6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:07:58</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

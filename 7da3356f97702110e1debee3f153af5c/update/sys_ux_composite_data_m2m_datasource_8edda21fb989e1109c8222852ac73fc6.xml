@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">8adda21f7a89e11044f8e25a0cfaebc8</dataset>
+        <datasource display_value="My Requests - Requested Item Datasource">46dda21f7b89e110a8a4e9c3c383bbc8</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:08:00</sys_created_on>
+        <sys_id>8edda21fb989e1109c8222852ac73fc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_8edda21fb989e1109c8222852ac73fc6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:08:00</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">8edda21f1189e110339e319e8ddce8ce</macroponent>
+        <name>Set my task sysId</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    imports
+}) {
+    api.setState("taskcard",event.payload.sysId);  
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:08:00</sys_created_on>
+        <sys_id>42dda21fc789e1107ea4efb4f8e693c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set my task sysId</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_client_script_42dda21fc789e1107ea4efb4f8e693c9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:08:00</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

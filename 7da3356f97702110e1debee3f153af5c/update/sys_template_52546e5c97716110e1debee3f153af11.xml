@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>CGI open</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 18:33:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>52546e5c97716110e1debee3f153af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI open</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_template_52546e5c97716110e1debee3f153af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 18:33:07</sys_updated_on>
+        <table>pa_indicators</table>
+        <template>aggregate=1^collect_breakdown_matrix=true^collect_records=true^cube=a8cb925497716110e1debee3f153af00^default_chart_type=line^description=Number of incidents not solved is measured daily as unit #.&#13;
+The goal for this indicator is to minimize&#13;
+It is the count on data source Incidents.Closed, which is using the table:&#13;
+incident&#13;
+with the following conditions:&#13;
+Incident state = Closed .and. Closed on Today&#13;
+Additional conditions:&#13;
+Close code = Not Solved (Not Reproducible) .or. Close code = Not Solved (Too Costly)^direction=2^display=false^forecast_base_type=1^forecast_method=1^forecast_periods=2^key=false^override_periods=false^precision=0^render_continuous_lines=false^role_override=true^scores_format=kMGTPE^show_realtime_score=false^unit=17b365e2d7320100ba986f14ce6103ad^visible_to=2^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

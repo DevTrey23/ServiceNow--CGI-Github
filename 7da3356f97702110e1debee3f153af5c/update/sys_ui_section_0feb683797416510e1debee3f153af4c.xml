@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="0feb683797416510e1debee3f153af4c" sys_domain="global" table="incident" version="3" view="CGI_Incident_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_string_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>47eb683797416510e1debee3f153af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_list_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>4feb683797416510e1debee3f153af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_list_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>43eb683797416510e1debee3f153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_list_4</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>47eb683797416510e1debee3f153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_string_7</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>4beb683797416510e1debee3f153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>4feb683797416510e1debee3f153af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_list_8</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>43eb683797416510e1debee3f153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_list_9</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>47eb683797416510e1debee3f153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_978148_dummy_u_glide_date_10</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_id>4beb683797416510e1debee3f153af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="incident" sys_domain="global" view="faeb683797416510e1debee3f153af16">0feb683797416510e1debee3f153af4c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-22 23:57:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0feb683797416510e1debee3f153af4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+            <sys_update_name>sys_ui_section_0feb683797416510e1debee3f153af4c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-22 23:57:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CGI Incident View" name="CGI_Incident_View">faeb683797416510e1debee3f153af16</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

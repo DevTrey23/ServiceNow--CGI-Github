@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_978148_dummy_cgi_ticket_table_beta">active=true^assignment_groupISNOTEMPTY^stateNOT IN3,4,7^active!=false^ORactiveISEMPTY<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="!=" or="false" value="false"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="ISEMPTY" or="true" value=""/>
+        </conditions>
+        <description>This breakdown consists of all data that is not completed</description>
+        <empty_value/>
+        <facts_table>x_978148_dummy_cgi_ticket_table_beta</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>CGI All non-completed data </name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 16:58:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8a688e5097316110e1debee3f153af47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI All non-completed data </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_dimensions_8a688e5097316110e1debee3f153af47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 16:58:01</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a688e5097316110e1debee3f153af47"/>
+</record_update>

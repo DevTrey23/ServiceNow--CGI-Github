@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">98c78073b0cd25105287756e37ba70ba</macroponent>
+        <name>set_loading</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	// Called on successful retrieval of search data
+    api.setState('loading', false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-22 21:19:17</sys_created_on>
+        <sys_id>50c780737ccd251066da2c4616e2b0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set_loading</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_client_script_50c780737ccd251066da2c4616e2b0ba</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-22 21:19:17</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

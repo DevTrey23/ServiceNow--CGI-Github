@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3fe04ee597112110e1debee3f153afcd" extends="task" label="Requestors" max_length="40" name="x_978148_dummy_requestors" type="collection">
+        <element label="Email" max_length="255" name="email" type="string_full_utf8"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="User ID" max_length="40" name="user_id" type="string"/>
+    </element>
+</database>

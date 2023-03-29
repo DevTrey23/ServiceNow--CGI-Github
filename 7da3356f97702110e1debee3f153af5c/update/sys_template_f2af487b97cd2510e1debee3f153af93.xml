@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Name fields</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-22 21:58:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f2af487b97cd2510e1debee3f153af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name fields</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_template_f2af487b97cd2510e1debee3f153af93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-22 21:58:37</sys_updated_on>
+        <table>sys_dictionary</table>
+        <template>active=true^column_label=Last name^display=false^internal_type=string^mandatory=false^max_length=40^write_roles=users, admin^read_roles=^delete_roles=^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

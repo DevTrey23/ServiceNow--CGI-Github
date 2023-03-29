@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">cadda21fb889e11021a69b0e222968c0</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">02dda21fe689e110011008e7b4881fcc</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:08:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8edda21fba89e110b2121065f192e1c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_page_property_8edda21fba89e110b2121065f192e1c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:08:00</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_978148_dummy.cadda21fb889e11021a69b0e222968c0.route.chrome_header.02dda21fe689e110011008e7b4881fcc</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>sys_ux_page_property_8edda21fba89e110b2121065f192e1c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">cadda21fb889e11021a69b0e222968c0</page><required_translations>[]</required_translations><route display_value="Search Page">02dda21fe689e110011008e7b4881fcc</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-21 20:08:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>8edda21fba89e110b2121065f192e1c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>sys_ux_page_property_8edda21fba89e110b2121065f192e1c2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-21 20:08:00</sys_updated_on><type>json</type><unique_name>x_978148_dummy.cadda21fb889e11021a69b0e222968c0.route.chrome_header.02dda21fe689e110011008e7b4881fcc</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>589598515</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>e1f6f01197302110e1debee3f153af7f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-02 20:05:00</sys_created_on>
+        <sys_id>cec623d7978de110e1debee3f153afcc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18613bb7de00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>8ec623d7368de1100ad5cb33f9f3e2cc</update_guid>
+        <update_guid_history>8ec623d7368de1100ad5cb33f9f3e2cc:589598515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-22 00:16:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1f9a263b1d7942d18aba3f794eb42b19</sys_id>
+        <sys_metadata>8edda21fba89e110b2121065f192e1c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_8edda21fba89e110b2121065f192e1c2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_8edda21fba89e110b2121065f192e1c2">cec623d7978de110e1debee3f153afcc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-22 00:16:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2a86df57974de110e1debee3f153afe0</sp_column>
+        <sp_widget display_value="CGI Logo">7cf2990c9751a510e1debee3f153afea</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 21:40:13</sys_created_on>
+        <sys_id>d12619009791a510e1debee3f153af6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sp_instance_d12619009791a510e1debee3f153af6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:40:13</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d12619009791a510e1debee3f153af6d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>sp_instance_d12619009791a510e1debee3f153af6d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">2a86df57974de110e1debee3f153afe0</sp_column><sp_widget display_value="CGI Logo">7cf2990c9751a510e1debee3f153afea</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-23 21:40:13</sys_created_on><sys_id>d12619009791a510e1debee3f153af6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>sp_instance_d12619009791a510e1debee3f153af6d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-23 21:40:13</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=d12619009791a510e1debee3f153af6d"/></record_update>]]></payload>
+        <payload_hash>-1534898693</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 21:40:14</sys_created_on>
+        <sys_id>d12619009791a510e1debee3f153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18680383b280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:40:14</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>1d2619003591a510ea2b48cbd574c26e</update_guid>
+        <update_guid_history>1d2619003591a510ea2b48cbd574c26e:-1534898693</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2726d1409791a510e1debee3f153afa0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 21:40:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>151cab2bdfc14fc8974c96d5c4fed0c4</sys_id>
+        <sys_metadata>d12619009791a510e1debee3f153af6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>sp_instance_d12619009791a510e1debee3f153af6d</sys_update_name>
+        <sys_update_version display_value="sp_instance_d12619009791a510e1debee3f153af6d">d12619009791a510e1debee3f153af6f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:40:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <calendar>standard</calendar>
+        <calendar_freq/>
+        <conditions table="x_978148_dummy_cgi_ticket_table_beta">active=true^stateIN-5,1,2<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="-5,1,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,2"/>
+        </conditions>
+        <description>Tickets that are not closed</description>
+        <facts_table>x_978148_dummy_cgi_ticket_table_beta</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>10</frequency>
+        <max_record_fetch_count>50000</max_record_fetch_count>
+        <name>CGI.open</name>
+        <override_record_collection>false</override_record_collection>
+        <report_source display_value="CGI Open Tickets (CGI Ticket Table (Beta))">7dbc169497716110e1debee3f153af7a</report_source>
+        <report_source_updated_at>2023-03-22 01:01:16</report_source_updated_at>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 18:04:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8cb925497716110e1debee3f153af00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI.open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_cubes_a8cb925497716110e1debee3f153af00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 18:04:01</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=a8cb925497716110e1debee3f153af00"/>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_978148_dummy_requestors</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:24:04</sys_created_on>
+        <sys_id>080d4b1f970de110e1debee3f153aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978148_dummy_requestors</sys_name>
+        <sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_security_acl_080d4b1f970de110e1debee3f153aff8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:24:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>sys_security_acl_080d4b1f970de110e1debee3f153aff8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_978148_dummy_requestors</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-21 22:24:04</sys_created_on><sys_id>080d4b1f970de110e1debee3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_978148_dummy_requestors</sys_name><sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>sys_security_acl_080d4b1f970de110e1debee3f153aff8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-21 22:24:04</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-24840949</payload_hash>
+        <record_name>x_978148_dummy_requestors</record_name>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:24:04</sys_created_on>
+        <sys_id>c40d4b1f970de110e1debee3f153affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867613a7270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:24:04</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>000d4b1f920de110530c174ba16c7dfa</update_guid>
+        <update_guid_history>000d4b1f920de110530c174ba16c7dfa:-24840949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:57:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>29150e935def48dc93bd374a571bba44</sys_id>
+        <sys_metadata>080d4b1f970de110e1debee3f153aff8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978148_dummy_requestors</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent display_value="">83fc0b1f970de110e1debee3f153af17</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>sys_security_acl_080d4b1f970de110e1debee3f153aff8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_080d4b1f970de110e1debee3f153aff8">c40d4b1f970de110e1debee3f153affa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:57:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

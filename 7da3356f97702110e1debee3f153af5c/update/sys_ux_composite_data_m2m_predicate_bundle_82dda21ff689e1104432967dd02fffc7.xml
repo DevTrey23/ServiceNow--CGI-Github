@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">cadda21f8889e110bc3bcd3d0a933ac8</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">86dda21f7e89e110a359899681778fc6</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:07:58</sys_created_on>
+        <sys_id>82dda21ff689e1104432967dd02fffc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_82dda21ff689e1104432967dd02fffc7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:07:58</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

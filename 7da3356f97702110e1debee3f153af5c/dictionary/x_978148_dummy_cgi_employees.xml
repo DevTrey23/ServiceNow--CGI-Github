@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d1fbece97212110e1debee3f153af7c" extends="x_978148_dummy_requestors" label="CGI Employees" max_length="40" name="x_978148_dummy_cgi_employees" type="collection">
+        <element display="true" label="Department" max_length="20" name="department" type="string"/>
+        <element label="Password" max_length="255" name="password" type="password2"/>
+    </element>
+</database>

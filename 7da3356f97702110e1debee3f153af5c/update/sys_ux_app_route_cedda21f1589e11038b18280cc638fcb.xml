@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Ticket Requestor Config">cadda21f9789e110e1debee3f153af98</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Indicate your decision</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(task)">82dda21fbf89e110b5d4022dd88977ce</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_tasks</route_type>
+        <screen_type display_value="Indicate your decision">0edda21f8789e110d20f8ebc23e946cb</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:08:00</sys_created_on>
+        <sys_id>cedda21f1589e11038b18280cc638fcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Indicate your decision</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_app_route_cedda21f1589e11038b18280cc638fcb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:08:00</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=cedda21f1589e11038b18280cc638fcb"/>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>CGI Ticket caller</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>This is were a new caller will enter their information</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-22 23:56:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d06b603797416510e1debee3f153af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CGI Ticket caller</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_template_d06b603797416510e1debee3f153af10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-22 23:56:55</sys_updated_on>
+        <table>sys_user</table>
+        <template>first_name=^last_name=^phone=^home_phone=^mobile_phone=^email=^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

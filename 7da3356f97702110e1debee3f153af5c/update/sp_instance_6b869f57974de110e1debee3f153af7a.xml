@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">5d32510c9751a510e1debee3f153afe5</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 23:05:49</sys_created_on>
+        <sys_id>6b869f57974de110e1debee3f153af7a</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sp_instance_6b869f57974de110e1debee3f153af7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:47:46</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h3>${Click <a href=\"https://dev144603.service-now.com/nav_to.do?uri=%2Fuser_registration_request.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Duser_registration_request%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%3D%26sysparm_query%3Dstate%253dpending%26sysparm_referring_url%3Duser_registration_request_list.do%253fsysparm_query%253dstate%25253Dpending%25255EEQ%26sysparm_target%3D%26sysparm_view%3Dlogin\">here</a> to self register if you have not submitted a ticket}</h3>",
+		"displayValue": "<h3>${Click <a href=\"https://dev144603.service-now.com/nav_to.do?uri=%2Fuser_registration_request.do%3Fsys_id%3D-1%26sys_is_list%3Dtrue%26sys_target%3Duser_registration_request%26sysparm_checked_items%3D%26sysparm_fixed_query%3D%26sysparm_group_sort%3D%26sysparm_list_css%3D%26sysparm_query%3Dstate%253dpending%26sysparm_referring_url%3Duser_registration_request_list.do%253fsysparm_query%253dstate%25253Dpending%25255EEQ%26sysparm_target%3D%26sysparm_view%3Dlogin\">here</a> to self register if you have not submitted a ticket}</h3>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6b869f57974de110e1debee3f153af7a"/>
+</record_update>

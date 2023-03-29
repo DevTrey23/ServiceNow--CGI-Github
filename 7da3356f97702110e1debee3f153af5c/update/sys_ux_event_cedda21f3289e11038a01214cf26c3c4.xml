@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>MODAL_SELECTED_RELAY_8adda21f5589e110096937cb1ce0a3ce</event_name>
+        <interfaces/>
+        <label>Toggle Modal Relay</label>
+        <props>[{"name":"modalId","label":"Modal","fieldType":"string","interfaceApiName":"global.modal","valueType":"string"},{"name":"showModal","label":"Show Modal","fieldType":"boolean","valueType":"string"},{"name":"displayOptions","label":"Modal display options","fieldType":"json","valueType":"string"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-21 20:07:58</sys_created_on>
+        <sys_id>cedda21f3289e11038a01214cf26c3c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Toggle Modal Relay</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_ux_event_cedda21f3289e11038a01214cf26c3c4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-21 20:07:58</sys_updated_on>
+    </sys_ux_event>
+</record_update>

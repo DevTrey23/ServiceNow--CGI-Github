@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="CGI Federal Admin Dashboard">a24fb1b597212110e1debee3f153afa5</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 19:58:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71f4f64697212110e1debee3f153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a24fb1b597212110e1debee3f153afa5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_71f4f64697212110e1debee3f153afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 19:58:04</sys_updated_on>
+        <tab display_value="CGI Federal Admin Da - New Tab 2">75f4f64697212110e1debee3f153afc3</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>pa_m2m_dashboard_tabs_71f4f64697212110e1debee3f153afc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="CGI Federal Admin Dashboard">a24fb1b597212110e1debee3f153afa5</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-14 19:58:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>71f4f64697212110e1debee3f153afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a24fb1b597212110e1debee3f153afa5</sys_name><sys_overrides/><sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_71f4f64697212110e1debee3f153afc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-14 19:58:04</sys_updated_on><tab display_value="CGI Federal Admin Da - New Tab 2">75f4f64697212110e1debee3f153afc3</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-250725039</payload_hash>
+        <record_name>a24fb1b597212110e1debee3f153afa5</record_name>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 19:58:04</sys_created_on>
+        <sys_id>c6f4f64697212110e1debee3f153afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e1b3860d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 19:58:04</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>02f4f6460221211003433a4bdf2ce7c8</update_guid>
+        <update_guid_history>02f4f6460221211003433a4bdf2ce7c8:-250725039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CGI Federal Admin Dashboard">a7f4b64697212110e1debee3f153afd6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-14 19:58:10</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>2ac027452d9e4ca094579b2b8f682f64</sys_id>
+        <sys_metadata>71f4f64697212110e1debee3f153afc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a24fb1b597212110e1debee3f153afa5</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent display_value="CGI Federal Admin Dashboard">a24fb1b597212110e1debee3f153afa5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_71f4f64697212110e1debee3f153afc6</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_71f4f64697212110e1debee3f153afc6">c6f4f64697212110e1debee3f153afc8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-14 19:58:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="CGI Federal Employee Dashboard">84163b5697a16110e1debee3f153aff9</dashboard>
+        <delete>false</delete>
+        <group display_value="Update Team 2" name="Update Team 2">ac76e397978de110e1debee3f153af95</group>
+        <identity>ac76e397978de110e1debee3f153af95</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 13:39:45</sys_created_on>
+        <sys_id>1e1be6689731a110e1debee3f153af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac76e397978de110e1debee3f153af95</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_1e1be6689731a110e1debee3f153af56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 13:39:45</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>pa_dashboards_permissions_1e1be6689731a110e1debee3f153af56</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="CGI Federal Employee Dashboard">84163b5697a16110e1debee3f153aff9</dashboard><delete>false</delete><group display_value="Update Team 2" name="Update Team 2">ac76e397978de110e1debee3f153af95</group><identity>ac76e397978de110e1debee3f153af95</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-22 13:39:45</sys_created_on><sys_id>1e1be6689731a110e1debee3f153af56</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ac76e397978de110e1debee3f153af95</sys_name><sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>pa_dashboards_permissions_1e1be6689731a110e1debee3f153af56</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-22 13:39:45</sys_updated_on><type>2</type><user/><write>true</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>921637736</payload_hash>
+        <record_name>ac76e397978de110e1debee3f153af95</record_name>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 13:39:45</sys_created_on>
+        <sys_id>121be6689731a110e1debee3f153af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187098c0aa90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 13:39:45</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>5a1be6687131a11049f7c4f1c39deb57</update_guid>
+        <update_guid_history>5a1be6687131a11049f7c4f1c39deb57:921637736</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ac76e397978de110e1debee3f153af95">cca0baec9731a110e1debee3f153af3e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 14:03:53</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>633cd1f379364e699457ffa32ae1d0e9</sys_id>
+        <sys_metadata>1e1be6689731a110e1debee3f153af56</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac76e397978de110e1debee3f153af95</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_1e1be6689731a110e1debee3f153af56</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_1e1be6689731a110e1debee3f153af56">121be6689731a110e1debee3f153af58</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 14:03:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

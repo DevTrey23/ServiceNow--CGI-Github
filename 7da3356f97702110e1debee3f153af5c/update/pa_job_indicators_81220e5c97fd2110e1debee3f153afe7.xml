@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>CGI Ticket Completion time - Number of open incidents not updated in last 30 days</display>
+        <indicator display_value="Number of open incidents not updated in last 30 days">44944f12bf130100b96dac808c0739a7</indicator>
+        <job display_value="CGI Ticket Completion time">fa2e359897fd2110e1debee3f153af06</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 16:02:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>81220e5c97fd2110e1debee3f153afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number of open incidents not updated in last 30 days.CGI Ticket Completion time</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>pa_job_indicators_81220e5c97fd2110e1debee3f153afe7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 16:02:19</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

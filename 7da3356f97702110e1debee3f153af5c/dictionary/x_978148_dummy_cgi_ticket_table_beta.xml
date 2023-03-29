@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="2384003497112110e1debee3f153af1d" extends="task" label="CGI Ticket Table (Beta)" max_length="40" name="x_978148_dummy_cgi_ticket_table_beta" type="collection">
+        <element label="Category" max_length="32" name="category" reference="incident" type="reference"/>
+        <element choice="1" label="CGI-Category" mandatory="true" max_length="4000" name="cgi_category" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Annual Close" sequence="0" value="Annual Close"/>
+                <element inactive_on_update="false" label="Bill To Collect" sequence="1" value="Bill To Collect"/>
+                <element inactive_on_update="false" label="Acquire To Dispose" sequence="2" value="Acquire To Dispose"/>
+                <element inactive_on_update="false" label="Budget" sequence="3" value="Budget"/>
+                <element inactive_on_update="false" label="General Ledger" sequence="4" value="General Ledger"/>
+                <element inactive_on_update="false" label="477" sequence="5" value="477"/>
+                <element inactive_on_update="false" label="Global" sequence="6" value="Global"/>
+                <element inactive_on_update="false" label="Leasing" sequence="7" value="Leasing"/>
+                <element inactive_on_update="false" label="IPP" sequence="8" value="IPP"/>
+                <element inactive_on_update="false" label="Travel" sequence="9" value="Travel"/>
+                <element inactive_on_update="false" label="Grants" sequence="10" value="Grants"/>
+                <element inactive_on_update="false" label="Procure To Pay" sequence="11" value="Procure To Pay"/>
+                <element inactive_on_update="false" label="Vendor Management" sequence="12" value="Vendor Management"/>
+                <element inactive_on_update="false" label="Reference Data" sequence="13" value="Reference Data"/>
+                <element inactive_on_update="false" label="Security" sequence="14" value="Security"/>
+            </choice>
+        </element>
+        <element attributes="=start_locked=false,allow_public=true" choice="1" label="CGI-Impacted System" mandatory="true" max_length="4000" name="cgi_impacted_system" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="CCRC" sequence="0" value="CCRC"/>
+                <element inactive_on_update="false" label="GFMS" sequence="1" value="GFMS"/>
+                <element inactive_on_update="false" label="RFMS/M" sequence="2" value="RFMS/M"/>
+            </choice>
+        </element>
+        <element label="Impacted System" max_length="32" name="impacted_system" reference="incident" type="reference"/>
+        <element default="javascript: new GlideDateTime().getDisplayValue()" label="Ticket Entered Date" max_length="40" name="ticket_entered_date" type="glide_date_time"/>
+        <element label="Requested Due Date" max_length="40" name="u_due_date_2" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested Due Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

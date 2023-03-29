@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>ACL for data broker: Catalog item variables transform</description>
+        <name>90c7807376cd2510ab186d796a253dc1</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-22 21:19:18</sys_created_on>
+        <sys_id>18c780732bcd2510ff147c79d87a6bc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>90c7807376cd2510ab186d796a253dc1</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_security_acl_18c780732bcd2510ff147c79d87a6bc0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-22 21:19:18</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

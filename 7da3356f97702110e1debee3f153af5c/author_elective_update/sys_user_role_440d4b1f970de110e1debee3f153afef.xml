@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Can use my app to make requests</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_978148_dummy.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:24:04</sys_created_on>
+        <sys_id>440d4b1f970de110e1debee3f153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978148_dummy.user</sys_name>
+        <sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_update_name>sys_user_role_440d4b1f970de110e1debee3f153afef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:24:04</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</application>
+        <file_path/>
+        <instance_id>d8f8c04adbdb9510387021c4059619b0</instance_id>
+        <instance_name>dev144603</instance_name>
+        <name>sys_user_role_440d4b1f970de110e1debee3f153afef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Can use my app to make requests</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_978148_dummy.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-21 22:24:04</sys_created_on><sys_id>440d4b1f970de110e1debee3f153afef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_978148_dummy.user</sys_name><sys_package display_value="dummy" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package><sys_policy/><sys_scope display_value="dummy">7da3356f97702110e1debee3f153af5c</sys_scope><sys_update_name>sys_user_role_440d4b1f970de110e1debee3f153afef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-21 22:24:04</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1185463615</payload_hash>
+        <record_name>x_978148_dummy.user</record_name>
+        <reverted_from/>
+        <source>fda3756f97702110e1debee3f153af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:24:04</sys_created_on>
+        <sys_id>440d4b1f970de110e1debee3f153affe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867613a7360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:24:04</sys_updated_on>
+        <type>Role</type>
+        <update_guid>8c0d4b1fca0de11007aa8d026ef7d3fd</update_guid>
+        <update_guid_history>8c0d4b1fca0de11007aa8d026ef7d3fd:1185463615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_978148_dummy.user">49a45317974de110e1debee3f153af3b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-21 22:57:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>36fc875bdcb14a709aed82bf43d7b624</sys_id>
+        <sys_metadata>440d4b1f970de110e1debee3f153afef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978148_dummy.user</sys_name>
+        <sys_package display_value="CGI Ticketing System" source="x_978148_dummy">7da3356f97702110e1debee3f153af5c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CGI Ticketing System">7da3356f97702110e1debee3f153af5c</sys_scope>
+        <sys_scope_delete display_value="">0b1589ca1e4d45468f669c9e7c3eb464</sys_scope_delete>
+        <sys_update_name>sys_user_role_440d4b1f970de110e1debee3f153afef</sys_update_name>
+        <sys_update_version display_value="sys_user_role_440d4b1f970de110e1debee3f153afef">440d4b1f970de110e1debee3f153affe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-21 22:57:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
